@@ -3,4 +3,5 @@ This is a git merge lab
 Master
 Develop
 
-feature-1 (no conflict)
+feature-1 
+(no conflict)
