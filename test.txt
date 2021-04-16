@@ -2,7 +2,3 @@ This is a git merge lab
 
 Master
 Develop
-
-
-
-line 8
